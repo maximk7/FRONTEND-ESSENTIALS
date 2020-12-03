@@ -1,16 +1,7 @@
 
 
+let huidigJaartal = 2020;
+let geboortejaar = 2001;
+var mijnleeftijd = huidigJaartal - geboortejaar;
+console.log(mijnleeftijd);
 
-
-  let stoplichtkleur = true;
-  
-
-
-
-if(stoplichtkleur == true) {
-   console.log("jij mag doorrijden");
-}
-
-if(stoplichtkleur) {
-   alert("jij moet stoppen voor het stoplicht");
-}

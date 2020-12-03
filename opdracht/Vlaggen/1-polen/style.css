@@ -3,24 +3,24 @@
     font-size:0;
 }
 
-#container{
-    width: 900px;
-    height: 600px;
+.container{
+    width: 800px;
+    height: 500px;
     background-color: blanchedalmond;
     border: 1px solid black;
 }
 
 /* Hieronder kun je gaan editen */
 
-#bovenkant{
-    width: 0px;
-    height: 0px;
-    background-color: chocolate;
+.bovenkant{
+    width: 800px;
+    height: 250px;
+    background-color: white;
 }
 
-#onderkant{
-    width: 0px;
-    height: 0px;
-    background-color: chocolate;
+.onderkant{
+    width: 800px;
+    height: 250px;
+    background-color: red;
 }
 

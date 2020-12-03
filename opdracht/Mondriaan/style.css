@@ -9,7 +9,7 @@ div{
 /* Container div waar de hele mondriaan in zit */
 #container{
     width: 800px;
-    height: 800px;
+    height: 500px;
     border: 1px solid black;
 }
 
