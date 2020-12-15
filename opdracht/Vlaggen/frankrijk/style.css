@@ -1,0 +1,35 @@
+*{
+    font-size:0;
+}
+
+.container{
+    width: 600px;
+    height: 500px;
+    border: 1px solid black;
+   
+}
+
+
+
+.bovenkant{
+    width: 200px;
+    height: 500px;
+    background-color:red;
+    display: inline-block; 
+    
+}
+
+.midden{
+    width: 200px;
+    height: 500px;
+    background-color: white;
+    display: inline-block; 
+}
+
+
+.onderkant{
+    width: 200px;
+    height: 500px;
+    background-color:blue;
+    display: inline-block; 
+}
