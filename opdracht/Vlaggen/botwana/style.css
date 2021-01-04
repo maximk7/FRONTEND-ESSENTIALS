@@ -1,0 +1,42 @@
+*{
+    font-size:0;
+}
+
+.container{
+    width: 800px;
+    height: 500px;
+    background-color: blanchedalmond;
+    border: 1px solid black;
+}
+
+
+
+.bovenkant{
+    width: 800px;
+    height: 200px;
+    background-color: rgb(115, 180, 255);
+}
+
+.middenboven{
+    width: 800px;
+    height: 40px;
+    background-color: white;
+
+}
+.midden{
+    width: 800px;
+    height: 120px;
+    background-color:black;
+}
+
+.middenonder{
+    width: 800px;
+    height: 40px;
+    background-color: white;
+}
+
+.onderkant{
+    width: 800px;
+    height: 200px;
+    background-color:rgb(115, 180, 255);
+}
