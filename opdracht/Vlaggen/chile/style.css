@@ -1,0 +1,40 @@
+*{
+    font-size:0;
+}
+
+#container{
+    width: 700px;
+    height: 500px;
+    background-color: blanchedalmond;
+    border: 1px solid black;
+}
+
+
+
+#onder{
+    width: 700px;
+    height: 250px;
+    background-color: red;
+    
+}
+
+#boven{
+    width: 700px;
+    height: 250px;
+    display: inline-block;
+
+}
+
+#links{
+    width: 250px;
+    height: 250px;
+    background-color: blue;
+    display: inline-block;
+}
+
+#rechts{
+    width: 450px;
+    height: 250px;
+    background-color: white;
+    display: inline-block;
+}
